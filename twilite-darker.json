@@ -1,0 +1,23 @@
+{
+    "name": "Twilite (Darker)",
+    "background": "#141025",
+    "foreground": "#F8F8F2",
+    "black": "#21222c",
+    "blue": "#b084f5",
+    "cyan": "#79ddf0",
+    "green": "#40e868",
+    "purple": "#f060b3",
+    "red": "#e84545",
+    "white": "#a8a8a8",
+    "yellow": "#e0e878",
+    "brightBlack": "#4d5066",
+    "brightBlue": "#d4b5ff",
+    "brightCyan": "#b8ffff",
+    "brightGreen": "#7dffaa",
+    "brightPurple": "#ffa8eb",
+    "brightRed": "#ff8080",
+    "brightWhite": "#ffffff",
+    "brightYellow": "#ffffb8",
+    "cursorColor": "#ff79c6",
+    "selectionBackground": "#44475a"
+}

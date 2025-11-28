@@ -1,0 +1,23 @@
+{
+    "name": "Twilite",
+    "background": "#18152a",
+    "foreground": "#d8d8d8",
+    "black": "#282a36",
+    "blue": "#a080d9",
+    "cyan": "#70c9dd",
+    "green": "#40d860",
+    "purple": "#d960a8",
+    "red": "#d84040",
+    "white": "#a0a0a0",
+    "yellow": "#d0d870",
+    "brightBlack": "#44475a",
+    "brightBlue": "#b89ae0",
+    "brightCyan": "#88dde8",
+    "brightGreen": "#58e878",
+    "brightPurple": "#e878c0",
+    "brightRed": "#e85858",
+    "brightWhite": "#e8e8e8",
+    "brightYellow": "#e0e888",
+    "cursorColor": "#ff79c6",
+    "selectionBackground": "#44475a"
+}
