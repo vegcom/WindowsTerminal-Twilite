@@ -7,9 +7,13 @@
 
 Run the installer script, it fetches the themes from github dirrectly
 
+Offline
+
 ```pwsh
 &"install.ps1"
 ```
+
+Online
 
 ```pwsh
 iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/vegcom/WindowsTerminal-Twilite/main/install.ps1'))
