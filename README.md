@@ -1,13 +1,24 @@
 # Twilite Windows Terminal
-
+<p style="text-align: center;">
 <img src="https://raw.githubusercontent.com/vegcom/Twilite-Theme/main/assets/icon.png" alt="icon" width="200"/>
+</p>
 
 ## QuickStart
 
-Runt the installer script, it fetches the themes from github dirrectly
+Run the installer script, it fetches the themes from github dirrectly
 
 ```pwsh
-install.ps1
+&"install.ps1"
+```
+
+```pwsh
+iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/vegcom/WindowsTerminal-Twilite/main/install.ps1'))
+```
+
+### System install
+
+```pwsh
+$themeDir = "C:\ProgramData\Microsoft\Windows Terminal\Fragments\Twilite"
 ```
 
 ## Examples
